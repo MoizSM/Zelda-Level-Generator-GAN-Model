@@ -1,0 +1,1 @@
+python main.py --json zeldadata/FWBPI45.json --niter 10000 --cuda --tiles 6 --experiment FWBPI45 --nz 8
